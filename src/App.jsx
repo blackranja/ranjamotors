@@ -28,7 +28,8 @@ const App = () => {
     
     <div className="contianer  w-screen">
       <div className=" w-screen">
-     
+        <Navbar />
+        <TestOne/>
       <BarChart3/>
       
        
